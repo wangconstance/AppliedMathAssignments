@@ -12,7 +12,7 @@ The collection of project assignments for this course includes work using:
 > Neural Networks (in Python)
 
 ## Getting Started
-Navigating through each folder, each project contains the PDF of the problem statement given, a PDF of the write-up and analysis conducted, and finally the code used to complete the project
+Navigating through each folder, each project contains the PDF of the problem statement given (spec), a PDF of the write-up and analysis conducted (report), and finally the code used to complete the project (matlab or python)
 
 ## Getting Help
 Please contact repository owner Constance Wang if you have any questions about any of the content
